@@ -5,9 +5,8 @@
 
 ### Table of contents
 
-* [Motivation](#motivation)
-* [Handbooks and books](#handbooks-and-books)
 * [What is Data Journalism?](#what-is-data-journalism)
+* [Handbooks and books](#handbooks-and-books)
 * [Formal education](#formal-education)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
@@ -19,7 +18,7 @@
 * [Other Awesome Lists](#other-awesome-lists)
 
 
-## Motivation
+## What is Data Journalism
 
 *This part is for humans who are new to Data Journalism*
 
