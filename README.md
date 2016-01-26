@@ -102,6 +102,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 ## Journals, Publications and Magazines
  * [How to get started with GitHub for Dummies Journalists](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/) 
  * [Data Driven Journalism](http://datadrivenjournalism.net/)
+ * [Journalism and New media](https://cartodb.com/solutions/journalism/)
 
 ## Other resources
  * [MaryJo Webster's training materials](https://mjwebster.github.io/DataJ/)
