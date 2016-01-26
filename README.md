@@ -33,7 +33,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
  * [Stanford Journalism Program. Data journalism and storytelling](http://journalism.stanford.edu/)
  * [Data journalism @ City University London](http://www.city.ac.uk/arts-social-sciences/modules/data-journalism-data)
  * [Training the Journalists of Tomorrow @ Tiburg University](https://www.tilburguniversity.edu/education/masters-programmes/data-journalism/)
- * [Data journalism in Russia, magister program @ High School of Economy](www.hse.ru/ma/datajourn/)
+ * [Data journalism in Russia, magister program @ High School of Economy](http://www.hse.ru/ma/datajourn/)
 
 ## MOOC's
  * [Learno.net data courses](http://learno.net/courses)
