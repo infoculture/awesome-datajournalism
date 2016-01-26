@@ -58,6 +58,15 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 * [Daten Journalist](https://twitter.com/datenjournalist)
 * [Paurl Bradshaw](https://twitter.com/paulbradshaw)
  
+
+## Visualization online tools
+ * [Infogr.am](https://infogr.am/)
+ * [Plot.ly](http://plot.ly)
+ * [Tableau Public](https://public.tableau.com)
+ * [Canva](https://www.canva.com/create/infographics/)
+ * [Piktochart](http://piktochart.com/)
+ * [Venngage](https://venngage.com/)
+ * [Datacopia](http://www.datacopia.com/)
  
 ## Visualization Tools - Environments
  
