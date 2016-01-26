@@ -7,12 +7,14 @@
 
 * [Motivation](#motivation)
 * [Handbooks and books](#handbooks-and-books)
-* [What is Data Science?](#what-is-data-science)
+* [What is Data Journalism?](#what-is-data-journalism)
 * [Formal education](#formal-education)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
+* [Visualization online tools](#visualization-online-tools)
+* [Visualization tools](#visualization-tools)
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -59,7 +61,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 * [Paurl Bradshaw](https://twitter.com/paulbradshaw)
  
 
-## Visualization online tools
+## Visualization Online Tools
  * [Infogr.am](https://infogr.am/)
  * [Plot.ly](http://plot.ly)
  * [Tableau Public](https://public.tableau.com)
@@ -68,7 +70,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
  * [Venngage](https://venngage.com/)
  * [Datacopia](http://www.datacopia.com/)
  
-## Visualization Tools - Environments
+## Visualization Tools
  
  * [addepar](http://addepar.github.io/#/ember-charts/overview)
  * [amcharts](http://www.amcharts.com/)
