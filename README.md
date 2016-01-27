@@ -27,6 +27,8 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 
 ## Handbooks and books
  * [Data Journalism Handbook](http://datajournalismhandbook.org/)
+ * [CIJ Data Journalism Book](http://www.tcij.org/sites/default/files/u4/Data%20Journalism%20Book.pdf)
+ * 
 
 
 ## Formal education
@@ -110,6 +112,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 
 
 ## Journals, Publications and Magazines
+ * [A short list of online articles and references on data journalism](http://www.smalldatajournalism.com/readings/)
  * [How to get started with GitHub for Dummies Journalists](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/) 
  * [Data Driven Journalism](http://datadrivenjournalism.net/)
  * [Journalism and New media](https://cartodb.com/solutions/journalism/)
