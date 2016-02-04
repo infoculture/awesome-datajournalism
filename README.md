@@ -28,7 +28,15 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 ## Handbooks and books
  * [Data Journalism Handbook](http://datajournalismhandbook.org/)
  * [CIJ Data Journalism Book](http://www.tcij.org/sites/default/files/u4/Data%20Journalism%20Book.pdf)
- * 
+ * [Data Journalism Heist](https://leanpub.com/DataJournalismHeist)
+ * [Data + Design](https://infoactive.co/data-design)
+ * [Finding Stories in Spreadsheets](https://leanpub.com/spreadsheetstories)
+ * [Scraping for Journalists](https://leanpub.com/scrapingforjournalists)
+ * [Organising an Online Investigation Team](https://leanpub.com/investigationteambook)
+ * [The Functional Art](http://www.thefunctionalart.com/p/about-book.html)
+ * [Facts are Sacred](http://www.theguardian.com/news/datablog/2013/apr/25/data-visualisation-data-journalism)
+ * [The Information Capital](http://theinformationcapital.com/)
+ * [Knowledge is beautiful](http://www.informationisbeautiful.net/2014/knowledge-is-beautiful/)
 
 
 ## Formal education
@@ -65,6 +73,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 ## Visualization Online Tools
  * [Infogr.am](https://infogr.am/)
  * [Plot.ly](http://plot.ly)
+ * [InfoActive](https://infoactive.co/)
  * [Tableau Public](https://public.tableau.com)
  * [Canva](https://www.canva.com/create/infographics/)
  * [Piktochart](http://piktochart.com/)
@@ -120,6 +129,7 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
 ## Other resources
  * [MaryJo Webster's training materials](https://mjwebster.github.io/DataJ/)
  * [Global Data Journalists Directory](https://jplusplus.github.io/global-directory/)
+ * [Periodic table of Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 
 ## Other Awesome Lists
 
