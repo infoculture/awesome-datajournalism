@@ -10,7 +10,7 @@
 * [Formal education](#formal-education)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
-* [Web scraping][#web-scraping]
+* [Web scraping](#web-scraping)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [Visualization online tools](#visualization-online-tools)
