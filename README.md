@@ -10,6 +10,7 @@
 * [Formal education](#formal-education)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
+* [Web scraping][#web-scraping]
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [Visualization online tools](#visualization-online-tools)
@@ -55,11 +56,20 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
  * [World Bank data portal](http://data.worldbank.org)
  * [US Government open data portal](http://data.gov)
  * [UK Government open data portal](http://data.gov.uk)
+  
+## Web scraping
+* [Scraping for Journalism: A Guide for Collecting Data](https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data)
+* [Making data on the web useful: scraping](http://schoolofdata.org/handbook/courses/scraping/)
+* [HTML Scraping Python Guide with lxml](http://docs.python-guide.org/en/latest/scenarios/scrape/)
+* [Beginner’s guide to Web Scraping in Python using BeautifulSoup](http://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+* [A Guide to Web Scraping Tools](http://www.garethjames.net/a-guide-to-web-scrapping-tools/)
+* [Web scraping course](https://www.udemy.com/scraping-and-data-mining-for-beginners-and-pros/)
+* [Codeacadmy | Web API Courses](https://www.codecademy.com/apis)
+* [Kimono | Turn websites into structured APIs from your browser in seconds)(https://www.kimonolabs.com/)
 
 ## Facebook Accounts
  * [Data Driven Journalism](https://www.facebook.com/data.driven.journalism/)
  * [Data journalism blog](https://www.facebook.com/datajournalismblog)
-
 
 ## Twitter Accounts
 * [Guardian Data](https://twitter.com/GuardianData)
@@ -141,3 +151,4 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
  - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets). – An awesome list of high-quality open datasets in public domains
+ - [awesome-opendata-rus](http://github.com/infoculture/awesome-opendata-rus) - An awesome list of open data in Russian language
