@@ -14,6 +14,7 @@
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [Visualization online tools](#visualization-online-tools)
+* [Visualization tools (timeline)](#visualization-tools-timeline)
 * [Visualization tools](#visualization-tools)
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -25,6 +26,7 @@
 
 What makes data journalism different to the rest of journalism? Perhaps it is the new possibilities that open up when you combine the traditional ‘nose for news’ and ability to tell a compelling story, with the sheer scale and range of digital information now available. [Source: What is Data Journalism?](http://datajournalismhandbook.org/1.0/en/introduction_0.html)
 
+More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en.wikipedia.org/wiki/Data-driven_journalism)
 
 ## Handbooks and books
  * [Data Journalism Handbook](http://datajournalismhandbook.org/)
@@ -89,6 +91,13 @@ What makes data journalism different to the rest of journalism? Perhaps it is th
  * [Piktochart](http://piktochart.com/)
  * [Venngage](https://venngage.com/)
  * [Datacopia](http://www.datacopia.com/)
+  
+## Visualization Tools (Timelines)
+ * [Time Glider](http://timeglider.com/)  
+ * [Tiki-Toki](http://www.tiki-toki.com/)
+ * [Hstry](https://www.hstry.co/)
+ * [Dipity](http://www.dipity.com/)
+ * [Timeline JS3](https://timeline.knightlab.com/)
  
 ## Visualization Tools
  
