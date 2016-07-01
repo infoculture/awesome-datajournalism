@@ -67,7 +67,12 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
 * [A Guide to Web Scraping Tools](http://www.garethjames.net/a-guide-to-web-scrapping-tools/)
 * [Web scraping course](https://www.udemy.com/scraping-and-data-mining-for-beginners-and-pros/)
 * [Codeacadmy | Web API Courses](https://www.codecademy.com/apis)
+* [Chrome browser Scraper extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
 * [Kimono | Turn websites into structured APIs from your browser in seconds)(https://www.kimonolabs.com/)
+* [Import.io | Extract web data the easy way](https://www.import.io/)
+* [ScrapingHub | Online scraping platform](http://scrapinghub.com/)
+* [ParseHub | Turn dynamic websites into APIs](https://www.parsehub.com/)
+* [Data-Miner.io | Online scraping tool and Chrome extension](https://data-miner.io/)
 
 ## Facebook Accounts
  * [Data Driven Journalism](https://www.facebook.com/data.driven.journalism/)
