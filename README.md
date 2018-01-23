@@ -73,6 +73,7 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
 * [ScrapingHub | Online scraping platform](http://scrapinghub.com/)
 * [ParseHub | Turn dynamic websites into APIs](https://www.parsehub.com/)
 * [Data-Miner.io | Online scraping tool and Chrome extension](https://data-miner.io/)
+* [Diggernaut | Turn website content into datasets](https://www.diggernaut.com/)
 
 ## Facebook Accounts
  * [Data Driven Journalism](https://www.facebook.com/data.driven.journalism/)
