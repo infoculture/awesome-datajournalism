@@ -89,15 +89,16 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  
 
 ## Visualization Online Tools
- * [Infogr.am](https://infogr.am/)
- * [Plot.ly](http://plot.ly)
- * [InfoActive](https://infoactive.co/)
- * [Tableau Public](https://public.tableau.com)
  * [Canva](https://www.canva.com/create/infographics/)
- * [Piktochart](http://piktochart.com/)
  * [Charted](http://www.charted.co/)
- * [Venngage](https://venngage.com/)
+ * [Darawrapper](https://www.datawrapper.de/)
  * [Datacopia](http://www.datacopia.com/)
+ * [InfoActive](https://infoactive.co/)
+ * [Infogr.am](https://infogr.am/)
+ * [Piktochart](http://piktochart.com/)
+ * [Plot.ly](http://plot.ly)
+ * [Tableau Public](https://public.tableau.com)
+ * [Venngage](https://venngage.com/)
   
 ## Visualization Tools (Timelines)
  * [Time Glider](http://timeglider.com/)  
@@ -130,10 +131,12 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [import.io](https://import.io/)
  * [jqplot](http://www.jqplot.com/)
  * [Matplotlib](http://matplotlib.org/)
+ * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
  * [nvd3](http://nvd3.org/)
  * [Opendata-tools](http://opendata-tools.org/en/visualization/) - list of open source data visualization tools
  * [Openrefine](http://openrefine.org/)
  * [plot.ly](https://plot.ly/)
+ * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
  * [raw](http://raw.densitydesign.org/)
  * [rcharts](http://rcharts.io/)
  * [techanjs](http://techanjs.org/)
@@ -143,8 +146,6 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [vida](https://vida.io/)
  * [Wolframalpha](http://www.wolframalpha.com/)
  * [Wrangler](http://vis.stanford.edu/wrangler/)
- * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
- * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
 
 
 ## Journals, Publications and Magazines
