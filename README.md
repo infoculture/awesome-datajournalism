@@ -98,7 +98,6 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [Charted](http://www.charted.co/)
  * [Venngage](https://venngage.com/)
  * [Datacopia](http://www.datacopia.com/)
- * [Automatic infographic generator](http://petercv.com/aig/)
   
 ## Visualization Tools (Timelines)
  * [Time Glider](http://timeglider.com/)  
