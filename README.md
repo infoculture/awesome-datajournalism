@@ -112,6 +112,7 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [addepar](http://addepar.github.io/#/ember-charts/overview)
  * [amcharts](http://www.amcharts.com/)
  * [anychart](http://www.anychart.com/home/)
+ * [bokeh](http://bokeh.pydata.org)
  * [capsidea](https://capsidea.com/)
  * [cartodb](http://cartodb.github.io/odyssey.js/)
  * [Cube](http://square.github.io/cube/)
