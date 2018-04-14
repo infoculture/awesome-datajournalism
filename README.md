@@ -91,7 +91,8 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
 ## Visualization Online Tools
  * [Canva](https://www.canva.com/create/infographics/)
  * [Charted](http://www.charted.co/)
- * [Darawrapper](https://www.datawrapper.de/)
+ * [Data Illustrator](http://data-illustrator.com/)
+ * [Datawrapper](https://www.datawrapper.de/)
  * [Datacopia](http://www.datacopia.com/)
  * [InfoActive](https://infoactive.co/)
  * [Infogr.am](https://infogr.am/)
