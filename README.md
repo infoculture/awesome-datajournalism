@@ -159,6 +159,7 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [MaryJo Webster's training materials](https://mjwebster.github.io/DataJ/)
  * [Global Data Journalists Directory](https://jplusplus.github.io/global-directory/)
  * [Periodic table of Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+ * [Chartmaker - comparison of data visualisation tools](http://chartmaker.visualisingdata.com)
 
 ## Other Awesome Lists
 
