@@ -102,7 +102,7 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [Venngage](https://venngage.com/)
   
 ## Visualization Tools (Timelines)
- * [Time Glider](http://timeglider.com/)  
+ * [Preceden](https://www.preceden.com/)  
  * [Tiki-Toki](http://www.tiki-toki.com/)
  * [Hstry](https://www.hstry.co/)
  * [Dipity](http://www.dipity.com/)
