@@ -1,5 +1,1 @@
-Data Journalism Events
-
-[http://www.journalismfestival.com/](International Journalism Festival) - апрель, Перуджа, Италия
-[http://www.journalismfund.eu/eijc16](Dataharvest) - май-июнь, Мехелен, Бельгия
-[http://www.tcij.org/summer-conference](CIJ Summer School) - июль, Лондон, ЮК
+Data journalism conferences and events are listed in the main README. See [README.md — Community & professional networks → Conferences and events](README.md#conferences-and-events).
