@@ -58,6 +58,7 @@ More about Data-driven journalism [Wikipedia: Data-driven journalsim](https://en
  * [World Bank data portal](http://data.worldbank.org)
  * [US Government open data portal](http://data.gov)
  * [UK Government open data portal](http://data.gov.uk)
+ * [Epstein Exposed](https://epsteinexposed.com) - Searchable database of 2M+ Jeffrey Epstein DOJ case files with full-text search, network graph visualization, and public REST API.
   
 ## Web scraping
 * [Scraping for Journalism: A Guide for Collecting Data](https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data)
