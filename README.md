@@ -360,6 +360,7 @@ The practice rests on **three interconnected pillars**:
 * [BuzzFeed News GitHub](https://github.com/BuzzFeedNews) — Investigative data and replication
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [Dateno](https://dateno.io/) — Dataset search engine; 22+ million open datasets across 5,000+ catalogs worldwide
 * [Journalism Tools](https://journalismtools.io/), [Data Journalism Tools](https://datajournalism.tools/)
 * [Source Guides](https://source.opennews.org/guides/) — OpenNews
 
