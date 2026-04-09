@@ -231,6 +231,7 @@ The practice rests on **three interconnected pillars**:
 * [Idyll](https://idyll-lang.org/) — Reactive markup for narrative development
 * [Shorthand](https://shorthand.com/) — Hosted platform for longform and team collaboration
 * [ArcGIS StoryMaps](https://storymaps.arcgis.com/) — Map-centric narratives
+* [The Data Board]([https://thedataboard.ai/) — Semantic CSV-to-narrative discovery
 
 ### Immersive and 3D
 
