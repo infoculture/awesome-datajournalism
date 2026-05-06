@@ -232,6 +232,7 @@ The practice rests on **three interconnected pillars**:
 * [Shorthand](https://shorthand.com/) — Hosted platform for longform and team collaboration
 * [ArcGIS StoryMaps](https://storymaps.arcgis.com/) — Map-centric narratives
 * [The Data Board]([https://thedataboard.ai/) — Semantic CSV-to-narrative discovery
+* [Scrollytelling.ai](https://scrollytelling.ai/) – Platform for publishing unlimited scrollytelling stories for free
 
 ### Immersive and 3D
 
