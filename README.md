@@ -130,6 +130,10 @@ The practice rests on **three interconnected pillars**:
 * [Beginner's guide to Web Scraping in Python using BeautifulSoup](http://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 * [A Guide to Web Scraping Tools](http://www.garethjames.net/a-guide-to-web-scrapping-tools/)
 
+### Public records and FOIA tracking
+
+* [FOIA 20 Working Day Deadline Calculator](https://foia-deadline-calculator.vercel.app/) — Browser-only federal FOIA response-target worksheet with 20-working-day, tolling, unusual-circumstances, memo, CSV, and ICS exports.
+
 ### Browser-based and no-code scrapers
 
 * [Web Scraper](https://www.webscraper.io/) — Chrome extension, point-and-click, pagination, CSV/JSON export
