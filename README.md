@@ -64,7 +64,7 @@ The practice rests on **three interconnected pillars**:
 
 * [GIJN Guide to Data Journalism](https://gijn.org/data-journalism/) — Global investigative journalism resources
 * [Verification Handbook](https://verificationhandbook.com/) — Data verification protocols and authentication
-* [Facts are Sacred](http://www.theguardian.com/news/datablog/2013/apr/25/data-visualisation-data-journalism) — The Guardian Datablog
+* [Facts are Sacred](https://www.theguardian.com/news/datablog/2013/apr/25/data-visualisation-data-journalism) — The Guardian Datablog
 
 ---
 
@@ -268,6 +268,7 @@ The practice rests on **three interconnected pillars**:
 * [Duke Reporters' Lab — Fact-checking database](https://reporterslab.org/fact-checking/)
 * [Bellingcat Toolkit](https://www.bellingcat.com/category/resources/) — Open-source investigation techniques
 * [Check (Meedan)](https://meedan.com/check) — Collaborative verification, claim documentation
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Data integrity and provenance
 
