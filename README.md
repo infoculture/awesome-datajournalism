@@ -114,6 +114,7 @@ The practice rests on **three interconnected pillars**:
 * [OpenSecrets](https://www.opensecrets.org/) — U.S. campaign finance and lobbying
 * [NASA Earthdata](https://earthdata.nasa.gov/) — Satellite imagery and climate variables
 * [Global Forest Watch](https://www.globalforestwatch.org/) — Near-real-time forest change data
+* [OpenWaterAtlas — Dive Sites × Climate](https://openwateratlas.com/en/datasets/) — 2,928 dive sites joined to 5-year wind/rain/temperature aggregates; open CC-BY 4.0 (DOI 10.5281/zenodo.20668393)
 * [IPUMS](https://ipums.org/) — Harmonized census microdata across countries
 * [Pew Research Center — Download datasets](https://www.pewresearch.org/download-datasets/) — Public opinion and social trends
 * [Epstein Exposed](https://epsteinexposed.com) — Searchable database of Jeffrey Epstein DOJ case files (full-text search, network graph, REST API)
