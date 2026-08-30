@@ -107,6 +107,7 @@ The practice rests on **three interconnected pillars**:
 * [US Government open data](https://data.gov) — data.gov
 * [UK Government open data](https://data.gov.uk) — data.gov.uk
 * [Data.europa.eu](https://data.europa.eu/) — EU institutional and open data
+* [Klarbelegt](https://klarbelegt.de/) — German official statistics as per-indicator CSVs, 171 cities and all 16 states, each with source and licence
 
 ### Specialized databases and APIs
 
