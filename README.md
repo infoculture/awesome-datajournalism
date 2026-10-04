@@ -260,7 +260,7 @@ The practice rests on **three interconnected pillars**:
 * [Google Images](https://images.google.com/), [TinEye](https://tineye.com/), [Yandex Images](https://yandex.com/images/) — Reverse image search
 * [ExifTool](https://exiftool.org/) — Metadata extraction (camera, GPS, editing)
 * [Forensically](https://29a.ch/photo-forensics/) — Error level analysis, clone detection
-* Microsoft Video Authenticator, [Sensity](https://sensity.ai/) — Deepfake detection (human judgment and source verification remain essential)
+* Microsoft Video Authenticator, [Sensity](https://sensity.ai/), [Sealed Rose](https://sealedrose.com/verify-video) — Deepfake and synthetic media detection (human judgment and source verification remain essential)
 
 ### Claim and source verification
 
