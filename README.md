@@ -112,6 +112,7 @@ The practice rests on **three interconnected pillars**:
 
 * [OpenCorporates](https://opencorporates.com/) — Company registries across 140+ jurisdictions
 * [OpenSecrets](https://www.opensecrets.org/) — U.S. campaign finance and lobbying
+* [Carreteras y hospitales](https://www.carreterasyhospitales.com/) — Spanish public spending, debt, taxes and politicians' asset declarations from official sources, with the source of every figure and CC BY 4.0 downloads
 * [NASA Earthdata](https://earthdata.nasa.gov/) — Satellite imagery and climate variables
 * [Global Forest Watch](https://www.globalforestwatch.org/) — Near-real-time forest change data
 * [IPUMS](https://ipums.org/) — Harmonized census microdata across countries
