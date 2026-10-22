@@ -162,6 +162,7 @@ The practice rests on **three interconnected pillars**:
 
 * [OpenRefine](http://openrefine.org/) — Dedicated data cleaning; faceted browsing, clustering, GREL, reconciliation
 * [CSV Lint](https://csvlint.io/) — Validate CSV against standards
+* [CSV Creator](https://csvcreator.com/en/csv-viewer-editor) — Browser-based CSV viewer/editor plus converters (Excel, JSON, SQL) and SQL queries on CSV; data stays on the device
 * [GoodTables](https://goodtables.io/) — Data quality validation, type inference, range checking
 * **Spreadsheet tools:** Microsoft Excel (Power Query, pivot tables), Google Sheets (collaboration, API), LibreOffice Calc, [Trifacta Wrangler](https://www.trifacta.com/products/wrangler/) — Cloud-based transformation suggestions
 
