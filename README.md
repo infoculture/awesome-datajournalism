@@ -305,6 +305,7 @@ The practice rests on **three interconnected pillars**:
 * [A short list of online articles and references on data journalism](http://www.smalldatajournalism.com/readings/)
 * [How to get started with GitHub for Dummies Journalists](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/)
 * [Journalism and New media](https://cartodb.com/solutions/journalism/) — CARTO
+* [TickerBloom](https://tickerbloom.com/) — Real-time company news monitor by AlphAI. Follow company news, explore Story context, and open original sources in a free, customizable news desk.
 
 ### Research centers and institutes
 
