@@ -122,6 +122,7 @@ The practice rests on **three interconnected pillars**:
 * [NASA Earthdata](https://earthdata.nasa.gov/) — Satellite imagery and climate variables
 * [Global Forest Watch](https://www.globalforestwatch.org/) — Near-real-time forest change data
 * [IPUMS](https://ipums.org/) — Harmonized census microdata across countries
+* [Invokely](https://invokely.ai/docs) - REST API with a free plan for source-cited official statistics across U.S. counties, EU regions, Spanish municipalities, and World Bank data
 * [Pew Research Center — Download datasets](https://www.pewresearch.org/download-datasets/) — Public opinion and social trends
 * [Epstein Exposed](https://epsteinexposed.com) — Searchable database of Jeffrey Epstein DOJ case files (full-text search, network graph, REST API)
 
