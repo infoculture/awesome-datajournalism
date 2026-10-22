@@ -124,6 +124,7 @@ The practice rests on **three interconnected pillars**:
 * [IPUMS](https://ipums.org/) — Harmonized census microdata across countries
 * [Pew Research Center — Download datasets](https://www.pewresearch.org/download-datasets/) — Public opinion and social trends
 * [Epstein Exposed](https://epsteinexposed.com) — Searchable database of Jeffrey Epstein DOJ case files (full-text search, network graph, REST API)
+* [Arcmira: YouTube Transcript Search](https://arcmira.com) - Search indexed YouTube transcripts for timestamped source passages, with [API access](https://arcmira.com/docs). Free plan; recent media and Premium transcripts require paid access.
 
 ---
 
