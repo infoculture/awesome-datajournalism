@@ -123,6 +123,7 @@ The practice rests on **three interconnected pillars**:
 * [Global Forest Watch](https://www.globalforestwatch.org/) — Near-real-time forest change data
 * [IPUMS](https://ipums.org/) — Harmonized census microdata across countries
 * [Pew Research Center — Download datasets](https://www.pewresearch.org/download-datasets/) — Public opinion and social trends
+* [twtData X/Twitter trends archive](https://twtdata.com/twitter-trends/) — Daily trending topics on X for 60 countries, one archived page per country and date, free
 * [Epstein Exposed](https://epsteinexposed.com) — Searchable database of Jeffrey Epstein DOJ case files (full-text search, network graph, REST API)
 
 ---
