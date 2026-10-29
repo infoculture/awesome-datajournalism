@@ -124,6 +124,7 @@ The practice rests on **three interconnected pillars**:
 * [IPUMS](https://ipums.org/) — Harmonized census microdata across countries
 * [Pew Research Center — Download datasets](https://www.pewresearch.org/download-datasets/) — Public opinion and social trends
 * [Epstein Exposed](https://epsteinexposed.com) — Searchable database of Jeffrey Epstein DOJ case files (full-text search, network graph, REST API)
+* [Insider Express (Canada)](https://insiderexpress.ca/) — Canadian insider trades, politicians' holdings, lobbying, donations and federal contracts
 
 ---
 
